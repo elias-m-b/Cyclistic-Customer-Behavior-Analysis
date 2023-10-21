@@ -7,7 +7,7 @@
 
 
 ###### You are welcome to check out the PowerPoint that I made documenting the whole data analysis process.
-###### There is a PDF version too, you are welcome :)
+###### It is in a PDF version too, you are welcome :)
 
 
 ###### This is a capstone project that I did for the Google Data Analytics Professional Certificate
