@@ -26,5 +26,3 @@ If you have any questions or feedback regarding the Cyclistic Customer Behavior 
 
 - GitHub: [e1iasm](https://github.com/e1iasm)
 - Email: [eliasmengesha2@gmial.com](mailto:eliasmengesha2@gmial.com)
-
-Please note that the analysis and code in this repository are provided as-is and may not be actively maintained or updated.
