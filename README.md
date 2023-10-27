@@ -16,7 +16,7 @@ The raw data used for the analysis is not included in this repository. However, 
 
 ## Usage
 
-To access the analysis and findings of the project, you can view the `Cyclistic Customer Behavior.pdf` file. The PowerPoint presentation provides a comprehensive overview of the data analysis process and the recommendations for marketing strategies.
+To access the analysis and findings of the project, you can view the `Cyclistic Customer Behavior.pdf` file. The slide presentation provides a comprehensive overview of the data analysis process and the recommendations for marketing strategies.
 
 If you are interested in exploring the code and conducting your own analysis, you can open the `cyclistic_analysis.ipynb` file in a Jupyter Notebook environment. The notebook contains the code used for data cleaning, exploration, and visualization.
 
