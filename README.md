@@ -4,7 +4,7 @@ This repository contains the code and analysis for the Cyclistic Customer Behavi
 
 ## Files
 
-- `Cyclistic Customer Behavior.pdf`: This is a PowerPoint presentation documenting the data analysis process and the findings of the project.
+- `Cyclistic Customer Behavior.pdf`: This is a slide presentation documenting the data analysis process and the findings of the project.
 - `README.md`: This file provides information about the repository and the project.
 - `cyclistic_analysis.ipynb`: This is a Jupyter Notebook file containing the code and analysis for the project.
 
