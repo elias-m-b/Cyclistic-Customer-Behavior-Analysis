@@ -1,4 +1,4 @@
-# Cyclistic Customer Behavior
+# Cyclistic Customer Behavior Analysis
 
 This repository contains the code and analysis for the Cyclistic Customer Behavior project. The goal of this project is to design marketing strategies aimed at converting casual riders into annual members using in-depth analysis of 12-month Cyclistic data.
 
