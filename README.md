@@ -24,5 +24,5 @@ If you are interested in exploring the code and conducting your own analysis, yo
 
 If you have any questions or feedback regarding the Cyclistic Customer Behavior project, you can reach out to the repository owner:
 
-- GitHub: [e1iasm](https://github.com/e1iasm)
-- Email: [eliasmengesha2@gmial.com](mailto:eliasmengesha2@gmial.com)
+- Email: [elias.m.berhe@gmial.com](mailto:elias.m.berhe@gmial.com)
+- GitHub: [elias-m-b](https://github.com/elias-m-b)
